@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education						       		
-- M.S., Computer Science| The University of Winnipeg at Winnipeg, Canada (_january 2024_ to Ongoing)	 			        		
+- M.S., Computer Science| The University of 	 			        		
 - B.Tech., Computer Science and Engineering | IK Gujral Punjab Technical University, India (_June 2023_)
 
 ## Work Experience
